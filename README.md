@@ -8,8 +8,8 @@ A new Flutter project.
 
 Feast your eyes on the vibes!
 
-![Screenshot 1](https://drive.google.com/file/d/1K9GHodzLD5HD89bxwcIhaCyP8rsqBI20/view)
-![Screenshot 2](https://drive.google.com/file/d/1UjTqe57mSoRNN7fauhI8JwWNb3ApBr-L/view)
+![Screenshot 1](https://drive.google.com/uc?export=view&id=1K9GHodzLD5HD89bxwcIhaCyP8rsqBI20)
+![Screenshot 2](https://drive.google.com/uc?export=view&id=1UjTqe57mSoRNN7fauhI8JwWNb3ApBr-L)
 
 ---
 
